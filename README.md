@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deadpool221b
-- 👀 I’m interested in ... CP, OS, ML/DL and DBMS. 
-- 🌱 I’m currently learning ... ML/DL and DBMS.
+- 👀 I’m interested in ... CP, OS, Networking, ML/DL and WebD. 
+- 🌱 I’m currently learning ... ML/DL and WebD.
 - 💞️ I’m looking to collaborate on ... ML/DL
 - 📫 How to reach me ... goyalvibhor987@gmail.com
 
